@@ -51,7 +51,7 @@ Here’s what an empty HTML document looks like:
 - `<!DOCTYPE html>` — The first line of every HTML document should be the doctype. It tells the browser that you’re writing modern HTML.
 - `<html>` — Wraps the whole HTML file, everything goes inside it.
 - `<head>` — Stuff that doesn’t necessarily show on the screen, but controls and defines the HTML document.
-- `<meta>` — Used to tell the browser what kind of characters are used in your document. `utf-8` allows many languages in the world.
+- `<meta>` — Used to tell the browser what kind of characters are used in your document. `utf-8` allows many languages in the world. (shouldn't this be about charset, while meta is a more general thing?)
 - `<title>` — The piece of text that’s shown in the tab of your browser. Also shown in search results as the link.
 - `<body>` — Not the body of the website, but the body of the HTML document. Everything rendered on the screen in a website goes in here.
 
