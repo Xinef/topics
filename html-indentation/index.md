@@ -94,7 +94,7 @@ The below example is wrong:
 </article>
 ```
 
-The `<img>` and `<p>` tags shouldn’t be indented because they aren’t inside other elements.
+The `<img>` and `<p>` tags shouldn’t be indented because they aren’t inside other elements. (Because article is their direct parent)
 
 The above sample should be written like this:
 
