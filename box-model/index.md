@@ -176,7 +176,7 @@ The newer layout system is called “Border Box” and changes the math used whe
 
 For responsive and flexible designs this is extremely helpful. If you want a column to be 30% wide, you don’t have to subtract with width of the padding to make it exactly that wide.
 
-So, to change your box model, add these lines of code to the very top of your website:
+So, to change your box model, add these lines of code to the very top of your CSS:
 
 ```css
 html {
@@ -188,7 +188,7 @@ html {
 }
 ```
 
-**I add this code to the top of every single website I create.**
+**I add this code to the top of every single CSS I create.**
 
 ---
 
