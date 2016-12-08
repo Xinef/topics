@@ -56,7 +56,7 @@ Inline level elements have the following properties:
 
 - They allow other elements to fit beside them on the same line
 - They take up only as much width as needed
-- `width`, `margin`, `padding` don’t really work
+- `width`, `margin`, `padding` don’t really work Or do they? Only width seems to be irrelevant.
 
 #### Some common inline level elements
 
