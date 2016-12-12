@@ -37,7 +37,7 @@ groups:
           - 'Can create columns with boxes touching sides.'
           - '---'
           - '&nbsp;'
-          - '`clear: left|right|both`'
+          - '`clear: left|right|both` Float left on the right.'
           - '![](clear.svg)'
           - 'Force the element below floated elements.'
           - '---'
