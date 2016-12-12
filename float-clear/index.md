@@ -130,7 +130,7 @@ aside {
   width: 20%;
 }
 ```
-
+These illustrations have aside float: left on the right.
 ![](columns.png)
 
 **Notice how the two widths don’t add up to `100%`—I’ve done that to leave a little space (gutter) between the two columns. But that causes some problems.**
