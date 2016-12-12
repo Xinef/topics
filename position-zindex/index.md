@@ -197,7 +197,7 @@ The `z-index` is a number, with no unit, that controls the layer. The higher the
 ![](z-index.png)
 
 ```css
-.purple {
+.blue {
   z-index: 2;
 }
 ```
